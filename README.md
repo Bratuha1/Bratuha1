@@ -1,3 +1,5 @@
+[![Аска и Рей на мосту под светофорами](assets/evangelion-traffic-lights.jpg)](https://www.pixiv.net/artworks/72070682)
+
 # Привет, я Bratuha1 👋
 
 Пишу на Python. Здесь мои проекты для Windows, GitHub и эксперименты с ИИ.
