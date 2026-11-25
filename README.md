@@ -1,16 +1,14 @@
-## Hi there 👋
+# Привет, я Bratuha1 👋
 
-<!--
-**Bratuha1/Bratuha1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Пишу на Python. Здесь мои проекты для Windows, GitHub и эксперименты с ИИ.
 
-Here are some ideas to get you started:
+## Проекты
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Peripheral Battery Tray** показывает заряд беспроводной мыши и гарнитуры рядом с часами Windows и предупреждает, когда пора зарядить устройство.  
+[Репозиторий](https://github.com/Bratuha1/peripheral-battery-tray) · [Скачать](https://github.com/Bratuha1/peripheral-battery-tray/releases/latest)
+
+**Release Link Check** проверяет ссылки на скачивание в документации и помогает поймать битые ссылки до публикации релиза.  
+[Репозиторий](https://github.com/Bratuha1/release-link-check)
+
+**ИИ-консультант** на GigaChat подбирает товары по каталогу магазина, проверяет наличие и собирает коммерческое предложение.  
+[Репозиторий](https://github.com/Bratuha1/ai-consultant)
